@@ -1,0 +1,19 @@
+{
+  "name": "componentlibrary_lhx",
+  "version": "1.0.0",
+  "description": "lhx的组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanlululu/componentlibrary_lhx.git"
+  },
+  "author": "lhx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanlululu/componentlibrary_lhx/issues"
+  },
+  "homepage": "https://github.com/alanlululu/componentlibrary_lhx#readme"
+}
